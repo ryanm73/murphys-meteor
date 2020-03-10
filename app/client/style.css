@@ -1,0 +1,12 @@
+.middleoverlay {
+  background: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg") no-repeat center center fixed;
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
+
+.footer {
+  background-color: #004030;
+  color: white;
+  padding: 0px;
+}
